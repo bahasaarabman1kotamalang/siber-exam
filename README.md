@@ -1,26 +1,15 @@
-SIBER-EXAM v2.0 FINAL PRODUCTION EDITION
+SIBER-EXAM v2.0 Firebase Production
 
-Tujuan:
-Platform ujian Bahasa Arab MAN 1 Kota Malang.
+Alur:
+1. Admin membuat akun.
+2. Guru upload template soal.
+3. Soal masuk Firestore.
+4. Admin membuat token ujian.
+5. Siswa login dan mengerjakan.
+6. Nilai tersimpan.
 
-Peran:
-1. Siswa:
-- Login
-- Mengikuti ujian
-- Melihat hasil
-
-2. Guru:
-- Upload template soal
-- Membuat ujian
-- Melihat hasil
-
-3. Admin:
-- Mengelola aplikasi
-- Mengelola akun
-- Mengatur ujian
-
-Template:
-Guru cukup mengisi file template-soal.csv.
-
-Pengembangan produksi:
-Hubungkan Firebase Authentication, Firestore, Storage.
+Sebelum produksi:
+- Isi firebase-config.js
+- Aktifkan Authentication
+- Aktifkan Firestore
+- Atur Storage bila diperlukan.

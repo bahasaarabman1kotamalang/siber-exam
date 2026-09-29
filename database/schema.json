@@ -1,7 +1,7 @@
 {
-  "users": "siswa guru admin",
+  "users": "akun siswa guru admin",
+  "questions": "bank soal hasil upload guru",
   "exams": "jadwal token durasi",
-  "questions": "bank soal",
   "answers": "jawaban siswa",
   "results": "nilai otomatis",
   "settings": "konfigurasi aplikasi"
