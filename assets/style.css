@@ -1,0 +1,29 @@
+body{
+font-family:Segoe UI,Arial;
+background:#f4f7f4;
+color:#075e3b;
+text-align:center;
+}
+header{
+background:linear-gradient(135deg,#075e3b,#d4af37);
+color:white;
+padding:45px;
+}
+header img{
+width:110px;
+}
+nav a{
+display:inline-block;
+background:#075e3b;
+color:white;
+padding:15px;
+margin:10px;
+border-radius:12px;
+text-decoration:none;
+}
+.card{
+background:white;
+margin:30px;
+padding:30px;
+border-radius:20px;
+}
