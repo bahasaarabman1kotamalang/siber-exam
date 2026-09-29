@@ -1,0 +1,14 @@
+{
+  "users": "akun siswa guru admin",
+  "exam_sessions": "sesi ujian",
+  "proctor_logs": {
+    "tab_switch": 0,
+    "fullscreen_exit": 0,
+    "camera_status": "active"
+  },
+  "adaptive_learning": {
+    "level": "basic/intermediate/advanced",
+    "recommendation": "activity"
+  },
+  "results": "nilai dan analitik"
+}
