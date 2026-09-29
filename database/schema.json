@@ -1,0 +1,8 @@
+{
+  "users": "siswa guru admin",
+  "exams": "jadwal token durasi",
+  "questions": "bank soal",
+  "answers": "jawaban siswa",
+  "results": "nilai otomatis",
+  "settings": "konfigurasi aplikasi"
+}

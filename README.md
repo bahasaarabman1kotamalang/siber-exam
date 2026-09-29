@@ -1,13 +1,26 @@
+SIBER-EXAM v2.0 FINAL PRODUCTION EDITION
 
-SIBER-EXAM v1.5 AI Proctoring & Adaptive Learning Edition
+Tujuan:
+Platform ujian Bahasa Arab MAN 1 Kota Malang.
 
-Fitur:
-- AI Proctoring Framework
-- Monitoring aktivitas ujian
-- Adaptive Learning Engine
-- Learning Analytics
-- Rekomendasi remedial
+Peran:
+1. Siswa:
+- Login
+- Mengikuti ujian
+- Melihat hasil
 
-Catatan:
-Integrasi computer vision AI dapat dihubungkan dengan layanan AI/ML yang dipilih sekolah.
-Ganti assets/logo-man1.png dengan logo resmi.
+2. Guru:
+- Upload template soal
+- Membuat ujian
+- Melihat hasil
+
+3. Admin:
+- Mengelola aplikasi
+- Mengelola akun
+- Mengatur ujian
+
+Template:
+Guru cukup mengisi file template-soal.csv.
+
+Pengembangan produksi:
+Hubungkan Firebase Authentication, Firestore, Storage.
